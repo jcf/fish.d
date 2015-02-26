@@ -1,0 +1,18 @@
+#+title: Fish Config
+#+author: James Conroy-Finn
+#+email: james@logi.cl
+
+* Installation
+
+#+begin_src sh
+  git clone git://github.com/jcf/fish.d ~/.config/fish
+#+end_src
+
+* Documentation
+
+http://fishshell.com/docs/current/commands.html
+http://fishshell.com/docs/current/tutorial.html
+
+* Interesting Projects
+
+https://github.com/bpinto/oh-my-fish
