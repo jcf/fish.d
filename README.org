@@ -10,8 +10,8 @@
 
 * Documentation
 
-http://fishshell.com/docs/current/commands.html
-http://fishshell.com/docs/current/tutorial.html
+- http://fishshell.com/docs/current/commands.html
+- http://fishshell.com/docs/current/tutorial.html
 
 * Interesting Projects
 
